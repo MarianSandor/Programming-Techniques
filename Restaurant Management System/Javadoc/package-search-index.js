@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"businessLayer"},{"l":"businessLayer.menu"},{"l":"businessLayer.restaurant"},{"l":"dataLayer"},{"l":"presentationLayer.administatorGUI"},{"l":"presentationLayer.chefGUI"},{"l":"presentationLayer.waiterGUI"}]

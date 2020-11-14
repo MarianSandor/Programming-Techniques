@@ -1,0 +1,154 @@
+Day 1
+Activity: Breakfast --- 1
+Activity: Toileting --- 3
+Activity: Grooming --- 2
+Activity: Sleeping --- 1
+Activity: Leaving --- 1
+Activity: Spare_Time/TV --- 4
+Activity: Showering --- 1
+Activity: Snack --- 1
+Activity: Lunch --- 1
+
+Day 2
+Activity: Breakfast --- 1
+Activity: Toileting --- 4
+Activity: Grooming --- 3
+Activity: Sleeping --- 1
+Activity: Leaving --- 1
+Activity: Spare_Time/TV --- 6
+Activity: Showering --- 1
+Activity: Snack --- 1
+Activity: Lunch --- 1
+
+Day 3
+Activity: Breakfast --- 1
+Activity: Toileting --- 6
+Activity: Grooming --- 2
+Activity: Sleeping --- 1
+Activity: Leaving --- 1
+Activity: Spare_Time/TV --- 8
+Activity: Showering --- 1
+Activity: Snack --- 2
+Activity: Lunch --- 1
+
+Day 4
+Activity: Breakfast --- 1
+Activity: Toileting --- 2
+Activity: Grooming --- 3
+Activity: Sleeping --- 1
+Activity: Leaving --- 1
+Activity: Spare_Time/TV --- 6
+Activity: Showering --- 1
+Activity: Snack --- 0
+Activity: Lunch --- 1
+
+Day 5
+Activity: Breakfast --- 1
+Activity: Toileting --- 3
+Activity: Grooming --- 4
+Activity: Sleeping --- 1
+Activity: Leaving --- 0
+Activity: Spare_Time/TV --- 7
+Activity: Showering --- 1
+Activity: Snack --- 1
+Activity: Lunch --- 1
+
+Day 6
+Activity: Breakfast --- 1
+Activity: Toileting --- 2
+Activity: Grooming --- 3
+Activity: Sleeping --- 1
+Activity: Leaving --- 1
+Activity: Spare_Time/TV --- 4
+Activity: Showering --- 1
+Activity: Snack --- 0
+Activity: Lunch --- 0
+
+Day 7
+Activity: Breakfast --- 1
+Activity: Toileting --- 4
+Activity: Grooming --- 2
+Activity: Sleeping --- 1
+Activity: Leaving --- 1
+Activity: Spare_Time/TV --- 6
+Activity: Showering --- 1
+Activity: Snack --- 2
+Activity: Lunch --- 0
+
+Day 8
+Activity: Breakfast --- 1
+Activity: Toileting --- 5
+Activity: Grooming --- 6
+Activity: Sleeping --- 1
+Activity: Leaving --- 2
+Activity: Spare_Time/TV --- 7
+Activity: Showering --- 1
+Activity: Snack --- 1
+Activity: Lunch --- 1
+
+Day 9
+Activity: Breakfast --- 1
+Activity: Toileting --- 3
+Activity: Grooming --- 4
+Activity: Sleeping --- 1
+Activity: Leaving --- 0
+Activity: Spare_Time/TV --- 5
+Activity: Showering --- 1
+Activity: Snack --- 1
+Activity: Lunch --- 1
+
+Day 10
+Activity: Breakfast --- 1
+Activity: Toileting --- 6
+Activity: Grooming --- 5
+Activity: Sleeping --- 1
+Activity: Leaving --- 1
+Activity: Spare_Time/TV --- 8
+Activity: Showering --- 1
+Activity: Snack --- 2
+Activity: Lunch --- 1
+
+Day 11
+Activity: Breakfast --- 1
+Activity: Toileting --- 1
+Activity: Grooming --- 5
+Activity: Sleeping --- 1
+Activity: Leaving --- 1
+Activity: Spare_Time/TV --- 4
+Activity: Showering --- 1
+Activity: Snack --- 0
+Activity: Lunch --- 0
+
+Day 12
+Activity: Breakfast --- 1
+Activity: Toileting --- 2
+Activity: Grooming --- 5
+Activity: Sleeping --- 1
+Activity: Leaving --- 2
+Activity: Spare_Time/TV --- 6
+Activity: Showering --- 1
+Activity: Snack --- 0
+Activity: Lunch --- 0
+
+Day 13
+Activity: Breakfast --- 1
+Activity: Toileting --- 1
+Activity: Grooming --- 4
+Activity: Sleeping --- 1
+Activity: Leaving --- 2
+Activity: Spare_Time/TV --- 3
+Activity: Showering --- 1
+Activity: Snack --- 0
+Activity: Lunch --- 0
+
+Day 14
+Activity: Breakfast --- 1
+Activity: Toileting --- 2
+Activity: Grooming --- 3
+Activity: Sleeping --- 1
+Activity: Leaving --- 0
+Activity: Spare_Time/TV --- 3
+Activity: Showering --- 1
+Activity: Snack --- 0
+Activity: Lunch --- 1
+
